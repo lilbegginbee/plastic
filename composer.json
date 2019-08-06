@@ -43,7 +43,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Lilbegginbee\\Plastic\\PlasticServiceProvider"
+        "Sleimanx2\\Plastic\\PlasticServiceProvider"
       ]
     }
   }
